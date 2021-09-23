@@ -1,0 +1,8 @@
+jersey/server/GrizzlyServer.class
+jersey/app/MenuService.class
+jersey/client/RestClient.class
+jersey/server/JDKServer$1.class
+jersey/app/MenuResource.class
+jersey/app/JakartaRestfulApp.class
+jersey/app/Menu.class
+jersey/server/JDKServer.class
