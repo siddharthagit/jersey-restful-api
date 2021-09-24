@@ -1,5 +1,6 @@
-#Jersey 3 Sample Application 
-##This sample application supports following server
+# Jersey 3 Sample Application 
+
+## This sample application supports following server
 1. JDK Server
 2. Grizzly Server
 
